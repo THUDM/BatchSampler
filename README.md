@@ -22,6 +22,12 @@ BatchSampler is a simple and general generative method to sample mini-batches of
 <h2>Quick Start </h2>
 
 
+<h2> Datasets </h2>
+
+We conduct experiments on five datasets across three modalities. For vision modality, we use a large-scale dataset [ImageNet](https://www.image-net.org/), two medium-sacle datasets: STL10 and ImageNet-100, and two small-scale datasets: CIFAR10 and CIFAR100. For language modality, we use 7 semantic textual similar- ity (STS) tasks. For graphs modality, we conduct graph-level classification experiments on 7 benchmark datasets: IMDB-B, IMDB- M, COLLAB, REDDIT-B, PROTEINS, MUTAG, and NCI1.
+
+<h2> Experimental Results </h2>
+
 
 
 <h2> Citing </h2>
