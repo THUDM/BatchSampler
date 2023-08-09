@@ -24,7 +24,7 @@ BatchSampler is a simple and general generative method to sample mini-batches of
 
 
 
-<h1> Citing </h1>
+<h2> Citing </h2>
 If you find our work is helpful to your research, please consider citing our paper:
 
 ```
