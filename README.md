@@ -1,3 +1,14 @@
+<p>
+  <img src="imgs/fig.png" width="1000">
+  <br />
+</p>
+
+<hr>
+
+<h1> BatchSampler: Sampling Mini-Batches for Contrastive Learning in Vision, Language, and Graphs </h1>
+
+
+
 # BatchSampler
 The source code for BatchSampler that accepted in KDD'23
 # Citing
