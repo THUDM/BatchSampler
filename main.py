@@ -189,7 +189,7 @@ def build_graph(images_embeds):
 
 
 def sampling(start_node, adj_index, map_index, visit, restart_p):
-    if args.sampling == 'RW':
+    if args.sampling == 'RWR':
         walks, visit = random_walk(start_node, adj_index, map_index, visit, restart_p) 
     else:
         raise Exception("unvalid sampling method")
