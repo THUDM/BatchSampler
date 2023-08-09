@@ -21,6 +21,7 @@ BatchSampler is a simple and general generative method to sample mini-batches of
 
 <h2>Quick Start </h2>
 
+Take vision modality as an example, you can run the code on STL10. 
 
 ```bash
 sh train.sh
